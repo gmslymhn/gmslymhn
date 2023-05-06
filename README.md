@@ -1,7 +1,6 @@
 # Hi, I'm gmslymhn
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
-
+A backend developer from China, based in Taiyuan.
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=gmslymhn.gmslymhn)](https://visitor-badge.laobi.icu/badge?page_id=gmslymhn.gmslymhn)
