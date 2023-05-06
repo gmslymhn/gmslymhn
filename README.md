@@ -1,6 +1,6 @@
 # Hi, I'm gmslymhn
 
-A backend developer from China, based in Taiyuan.
+An idealistic young man who is a backend developer from China.
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=gmslymhn.gmslymhn)](https://visitor-badge.laobi.icu/badge?page_id=gmslymhn.gmslymhn)
