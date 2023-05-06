@@ -20,11 +20,11 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=gmslymhn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="gmslymhn" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmslymhn&theme=material-palenight&hide_border=false" alt="gmslymhn" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmslymhn&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gmslymhn" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gmslymhn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C907%20hrs%2023%20mins-blue)
@@ -98,7 +98,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gmslymhn/gmslymhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
