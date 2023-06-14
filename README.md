@@ -7,7 +7,7 @@ An idealistic young man who is a backend developer from China.
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:gmslymhn@gmail.com)
 [![](https://img.shields.io/github/stars/gmslymhn?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=gmslymhn&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/gmslymhn?color=27da6b&logo=Handshake)](https://github.com/gmslymhn?tab=followers)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-reishin.me-ffffff?logo=Hugo)](https://reishin.me)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-reishin.me-ffffff?logo=Hugo)](https://gmslymhn.netlify.app/)
 
 ## Tools
 
